@@ -1,0 +1,1 @@
+Only edit files.csv. Before checking in, execute `csv_to_md.py` to regenerate `files.md`.
