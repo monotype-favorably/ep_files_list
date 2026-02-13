@@ -2,11 +2,15 @@
 
 ## Purpose
 
-This is meant to be a compilation of metadata about every file in [The Epstein Files](https://en.wikipedia.org/wiki/Epstein_files).
+This is meant to be a compilation of metadata about every file in [The Epstein Files](https://en.wikipedia.org/wiki/Epstein_files). "Metadata" means that this repo is not meant to store the files themselves but instead store information about the files for those wishing to do mass analysis.
 
 ## How to View
 
 The core dataset is `files.csv`, which is meant to be a list of every record in The Epstein Files and information about that record.
+
+## How to Contribute
+
+Please start an issue if you know of a dataset that should be included. Great information would the topic of each record, a list of records that were later deleted from `justice.gov`, or a list of records that are related to each other.
 
 ## Data Sources
 
