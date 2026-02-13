@@ -39,3 +39,10 @@ A listing of non-PDF files, a script to find more non-PDF files, and torrent fil
 
 * From this, we get the first file extension column. We assume everything is PDF (the majority of records are represented by PDF files) unless it's on a list of known non-PDF files. This resulted in us being able to identify **2,573 non-PDF records**
 * We referenced this repo as of `054f746ea0c3b6c84cac01c352fc4df1342888bc`
+
+### Want to do
+
+* [`ThatRetiredDude/EpsteinMultimedia`](https://github.com/ThatRetiredDude/EpsteinMultimedia)
+* https://pastebin.com/EE0ULH6b
+* https://www.reddit.com/r/Epstein/comments/1qw5b5i/i_created_a_spread_sheet_with_all_video_audio_and/
+* https://www.reddit.com/r/Epstein/comments/1qxvkl0/list_of_video_urls/
